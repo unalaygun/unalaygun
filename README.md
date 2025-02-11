@@ -1,5 +1,5 @@
- [![MasterHead](https://media.licdn.com/dms/image/v2/C4D03AQGxyn7r_qJAfw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1656173595772?e=2147483647&v=beta&t=IktCyQuPbY6F0DLJl5gxirh6QGaQftTcLByQZTvVNv0)
-<h1 align="center">Hi 👋, I'm Derviş Aygün</h1>
+<h1 align="center">Hi, I'm Derviş Aygün
+I called myself a Backend Developer. I'm mostly using C# in my paid job.</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Bizigo](https://travel.bizigo.com)
