@@ -1,6 +1,5 @@
-<h1 align="center">Hi, I'm Derviş Aygün
-I called myself a Backend Developer. I'm mostly using C# in my paid job.</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Derviş Aygün</h1>
+<h3 align="center">I called myself a Backend Developer. I'm mostly using C# in my paid job.</h3>
 
 - 🔭 I’m currently working on [Bizigo](https://travel.bizigo.com)
 
